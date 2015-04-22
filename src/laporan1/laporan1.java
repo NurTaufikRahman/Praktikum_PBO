@@ -2,10 +2,6 @@
  * 
  */
 package laporan1;
-
-import java.awt.geom.Point2D.Float;
-import java.nio.FloatBuffer;
-
 /**
  * @author Taufik
  *
