@@ -1,7 +1,7 @@
 /**
  * 
  */
-package laporan1;
+package Laporan1;
 /**
  * @author Taufik
  *
